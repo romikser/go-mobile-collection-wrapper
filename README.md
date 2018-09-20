@@ -1,7 +1,7 @@
 # go-mobile-collection-wrapper
 # Based on [go-mobile-collection](https://github.com/scisci/go-mobile-collection)
 
-Note: As a go-mobile-collection, this utility has been created to solve specific tasks and does not pretend to be the best or the most elegant solution. 
+Note: Like a go-mobile-collection, this utility has been created to solve specific tasks and does not pretend to be the best or the most elegant solution. 
 
 ## Usage
 
