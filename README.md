@@ -25,11 +25,11 @@ What this repo does is build a command line utility that can then be automatical
 
 ### Embedding inside map
 
-1. Before the struct, add a comment to flag it. Specify a key types for map after @map-wrapper: separated by coma. Currently only primitives (string, int etc.) are supported as key types.
+3. Before the struct, add a comment to flag it. Specify a key types for map after @map-wrapper: separated by coma. Currently only primitives (string, int etc.) are supported as key types.
 ```
     // @map-wrapper:string,int
     type Example struct {
         ExampleField string
     }
 ```
-2. When you build your project a new file should now be generated called ($GOFILE)_map.go that contains the automatically generated definitions.
+4. When you build your project a new file should now be generated called ($GOFILE)_map.go that contains the automatically generated definitions.
