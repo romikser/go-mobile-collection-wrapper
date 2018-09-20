@@ -5,7 +5,7 @@ Note: As a go-mobile-collection, this utility has been created to solve specific
 
 ## Usage
 
-###Preparation
+### Preparation
 
 What this repo does is build a command line utility that can then be automatically called using go generate semantics.
 
